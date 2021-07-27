@@ -1,0 +1,17 @@
+.opinion-image-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.opinion-item-with-image{
+    width: 50%;
+}
+.opinion-item-image{
+    width: 50%;
+}
+.opinion-item-image-image{
+    width: 100%;
+    height: 140px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,35 @@
+
+@import url(//db.onlinewebfonts.com/c/415c1cffdc1ffdf955cdd328ad4a4c87?family=Cheltenham);
+
+.lead-article-container{
+    display: flex;
+    border-right: 1px solid lightgray;
+}
+.lead-article-left{
+    width: 40%;
+    padding-right: 10px;
+}
+.lead-article-right{
+    width: 60%;
+}
+.lead-article-image{
+    width: 97%;
+    height: 250px;
+    padding-right: 10px;
+}
+.lead-article-paragraph{
+    font-size: 12px;
+    color: gray;
+}
+.lead-article-container-block{
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.lead-article-container-block-headline{
+    font-family: "Cheltenham";
+}
+.lead-article-container-block-paragraph{
+    font-size: 14px;
+    padding-top: 10px;
+}

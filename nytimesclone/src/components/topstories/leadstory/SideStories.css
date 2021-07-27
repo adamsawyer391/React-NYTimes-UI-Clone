@@ -1,0 +1,23 @@
+@import url(//db.onlinewebfonts.com/c/415c1cffdc1ffdf955cdd328ad4a4c87?family=Cheltenham);
+
+.side-area{
+    border-bottom: 1px solid black;
+    margin: 5px;
+    height: 100%;
+}
+.top-side{
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+.paragraph{
+    color: gray;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.bottom-side{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.side-story-headline{
+    font-family: "Cheltenham";
+}

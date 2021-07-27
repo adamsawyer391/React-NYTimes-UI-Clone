@@ -1,0 +1,10 @@
+.story-area{
+    display: flex;
+    margin: 5px;
+}
+.top-story-left{
+    width: 66%;
+}
+.top-story-right{
+    width: 33%;
+}

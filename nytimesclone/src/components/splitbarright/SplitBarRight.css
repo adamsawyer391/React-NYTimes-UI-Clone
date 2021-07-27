@@ -1,0 +1,14 @@
+.splitbar-right-container{
+    border-bottom: 1px solid black;
+    display: flex;
+    margin: 10px;
+}
+.splitbar-left{
+    width: 25%;
+    border-right: 1px solid lightgray;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+.splitbar-right{
+    width: 75%;
+}

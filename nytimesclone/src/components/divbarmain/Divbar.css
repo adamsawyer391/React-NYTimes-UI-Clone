@@ -1,0 +1,7 @@
+.divbar{
+    height: 3px;
+    background-color: lightgray;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+}

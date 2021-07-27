@@ -1,0 +1,22 @@
+.advertisement-container{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 200px;
+    background-color: lightgray;
+    margin-top: 20px;
+}
+.advertisement-paragraph{
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 18px;
+    letter-spacing: 0.2ch;
+    padding: 20px
+}
+.advertisement-image{
+    width: 100%;
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px; */
+    height: 200px;
+}

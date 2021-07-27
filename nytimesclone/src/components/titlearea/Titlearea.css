@@ -1,0 +1,31 @@
+.container{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+.left{
+    width: 33%;
+    margin: 0px;
+    padding: 0px;
+}
+.center{
+    width: 33%;
+    margin: 0px;
+    padding: 0px;
+}
+.right{
+    width: 33%;
+    margin: 0px;
+    padding: 0px;
+}
+.logo-img{
+    width: 100%;
+}
+.date{
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.t1{
+    font-size: 13px;
+}

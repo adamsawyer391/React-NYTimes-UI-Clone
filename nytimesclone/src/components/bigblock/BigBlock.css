@@ -1,0 +1,36 @@
+/* .big-block-container{
+    margin-right: 10px;
+} */
+.big-block-left{
+    width: 80%;
+    border-right: 1px solid lightgray;
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+.title-bar-big-block{
+    margin-bottom: 10px;
+}
+.big-block-right{
+    width: 20%;
+}
+.big-block-main-content-area{
+    display: flex;
+}
+.first{
+    width: 70%;
+    border-right: 1px solid lightgray;
+    padding-right: 10px;
+}
+.second{
+    width: 30%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.second-headline{
+    margin-bottom: 10px;
+}
+.second-body{
+    font-size: 14px;
+}

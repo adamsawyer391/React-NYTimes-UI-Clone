@@ -1,0 +1,43 @@
+
+.bar{
+    display: flex;
+}
+.version-edition-list{
+    display: flex;
+    list-style-type: none;
+}
+.list-item{
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 36px;
+    font-size: 11px;
+}
+.mainbar-top{
+    padding: 2px;
+    display: flex;
+}
+.block{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    background-color: lightgray;
+}
+.left{
+    width: 33%;
+}
+.ccenter-main{
+    width: 33%;
+}
+.right{
+    width: 33%;
+    justify-content: flex-end;
+    display: flex;
+}
+.center {
+    margin: 0 auto;
+    width: 30px;
+    padding: 3px;
+}
+.slight-margin{
+    margin-right: 10px;
+}

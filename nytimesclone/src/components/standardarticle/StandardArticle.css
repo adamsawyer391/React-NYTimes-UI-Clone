@@ -1,0 +1,15 @@
+@import url(//db.onlinewebfonts.com/c/415c1cffdc1ffdf955cdd328ad4a4c87?family=Cheltenham);
+
+.standard-article-headline{
+    /* font-size: 24px; */
+    font-family: "Cheltenham";
+    letter-spacing: 0.2ch;
+    margin-bottom: 15px;
+}
+.standard-article-body{
+    font-size: 16px;
+    color: gray;
+}
+.standard-article-container{
+    margin-bottom: 15px;
+}
